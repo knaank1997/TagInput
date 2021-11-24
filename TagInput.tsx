@@ -1,4 +1,4 @@
-import '../../../style/tag-input.less';
+import './style/tag-input.less';
 import { CloseOutlined } from '@ant-design/icons';
 import { useEffect, useRef, useState } from 'react';
 import { isEmpty } from 'lodash';
